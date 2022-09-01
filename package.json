@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/mariiamelon/hexlet-js/issues"
   },
-  "homepage": "https://github.com/mariiamelon/hexlet-js#readme"
+  "homepage": "https://github.com/mariiamelon/hexlet-js#readme",
+  "devDependencies": {
+    "jest": "^29.0.1",
+    "prettier": "^2.7.1"
+  }
 }
